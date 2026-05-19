@@ -1,4 +1,9 @@
-aiogram>=3.0.0
-firebase-admin>=6.0.0
-httpx>=0.24.0
-pyotp>=2.8.0
+pyTelegramBotAPI
+telebot",
+        "pytz":
+"pytz",
+        "pandas":
+
+"pandas",
+        "openpyxl":
+"openpyxl"
