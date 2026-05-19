@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-pytz
-pandas
-openpyxl
