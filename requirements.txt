@@ -1,8 +1,4 @@
 pyTelegramBotAPI
-telebot
-pytz
 pytz
 pandas
-pandas
-openpyxl
 openpyxl
